@@ -1,1 +1,4 @@
 these is the first update
+git git add .
+git commit -m "these comment"
+git push 
