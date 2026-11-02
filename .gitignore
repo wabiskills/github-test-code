@@ -1,0 +1,18 @@
+# *.temp all temp files
+# ? single character matchi
+# [abc] mach any character
+# [!abc] ignore any character that is NOT in tehse set
+
+*.log 
+!important.log
+
+temp/
+
+/.env
+
+one.txt
+
+/image?
+log[0-9].log
+
+*.git 
